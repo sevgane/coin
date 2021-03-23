@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "874002641035",
+    "firebase_url": "https://coin-app-31900-default-rtdb.firebaseio.com",
+    "project_id": "coin-app-31900",
+    "storage_bucket": "coin-app-31900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874002641035:android:bbf041fcd70817e9aa648e",
+        "android_client_info": {
+          "package_name": "com.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874002641035-nq90s0ma80v4d8a03nm2ntpb9clqf4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-HnekHTyMv8xTRcRFlgGZOiwAd6C1tP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874002641035-nq90s0ma80v4d8a03nm2ntpb9clqf4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874002641035:android:c1c08e99a87a48b8aa648e",
+        "android_client_info": {
+          "package_name": "com.webyapar.ada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874002641035-66arce0eam8fvln3hgacdum330cvnrpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webyapar.ada",
+            "certificate_hash": "871d9e2d38471b1e320c7e6a26355dcd60d01c04"
+          }
+        },
+        {
+          "client_id": "874002641035-hp1pjp5sgqevd16574ocptk4gv4280l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webyapar.ada",
+            "certificate_hash": "edd10c3d00bf4b1328402534fd25b3d185295227"
+          }
+        },
+        {
+          "client_id": "874002641035-nq90s0ma80v4d8a03nm2ntpb9clqf4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-HnekHTyMv8xTRcRFlgGZOiwAd6C1tP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874002641035-nq90s0ma80v4d8a03nm2ntpb9clqf4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874002641035:android:cf95da9243785275aa648e",
+        "android_client_info": {
+          "package_name": "com.webyapar.coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874002641035-nq90s0ma80v4d8a03nm2ntpb9clqf4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-HnekHTyMv8xTRcRFlgGZOiwAd6C1tP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874002641035-nq90s0ma80v4d8a03nm2ntpb9clqf4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
